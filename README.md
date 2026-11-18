@@ -6,9 +6,9 @@ I mainly work with Python, and I enjoy building projects that help me understand
 
 My interests include software development, automation, machine learning, and computer vision. I enjoy exploring different areas of technology and applying what I learn through practical projects.
 
-💼 **I'm currently looking for internship or junior-level job opportunities where I can gain practical experience, contribute to real projects, and continue developing my skills.**
+ **I'm currently looking for internship or junior-level job opportunities where I can gain practical experience, contribute to real projects, and continue developing my skills.**
 
-## 🛠️ Technologies I Work With
+##  Technologies I Work With
 
 - **Programming:** Python, SQL
 - **Libraries:** Pandas, NumPy, PyTorch, scikit-learn, OpenCV
@@ -16,9 +16,9 @@ My interests include software development, automation, machine learning, and com
 - **Tools:** Git, GitHub, Streamlit, pytest
 - **Other:** Automation, Model Predictive Control (MPC)
 
-## 💻 My Projects
+##  My Projects
 
-### 🏭 Smart Factory Maintenance
+###  Smart Factory Maintenance
 
 A Python application I developed to monitor industrial equipment.
 
@@ -28,7 +28,7 @@ It simulates sensor readings, checks for abnormal conditions, tracks equipment f
 
 [GitHub Repository](https://github.com/MahaDeborah/smart-factory-maintenance) | [Live Demo](https://deborah-smart-factory.streamlit.app/)
 
-### 🧠 Neural MPC
+###  Neural MPC
 
 In this project, I combined a neural network with Model Predictive Control (MPC) to control a nonlinear system.
 
@@ -38,7 +38,7 @@ I used Python and PyTorch to build the model, then CasADi and IPOPT for optimiza
 
 [GitHub Repository](https://github.com/MahaDeborah/neural-mpc)
 
-### 🔬 Microrobot Tracking (In Progress)
+###  Microrobot Tracking (In Progress)
 
 This is my diploma project.
 
@@ -46,14 +46,14 @@ I'm working on detecting the position and orientation of small magnetic robots i
 
 **Technologies:** Python, OpenCV
 
-## 🌱 What I'm Currently Working On
+##  What I'm Currently Working On
 
 - Developing my diploma project.
 - Improving my Python and software development skills.
 - Finding a job/internship
 - Building and improving my personal projects.
 
-## 📫 Contact
+##  Contact
 
 - **Email:** deborahmaha14@gmail.com
 - **GitHub:** [MahaDeborah](https://github.com/MahaDeborah)
