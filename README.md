@@ -1,4 +1,4 @@
-# Hi, I'm Deborah! 👋
+# Hi, I'm Deborah! 
 
 I'm a final-year student at LETI University in Saint Petersburg, studying Control in Technical Systems.
 
